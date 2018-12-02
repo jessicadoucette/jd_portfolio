@@ -2,6 +2,8 @@
 
 Jessica Doucette's updated portfolio. Added more of a resume, and it can be fired up via terminal. DogFinder and Project 2 have been added. No third-party template used, only help from Bootstrap. 
 
+Open App: https://jessica-doucette-portfolio.herokuapp.com/
+
 ### Prerequisites
 
 <ul>
